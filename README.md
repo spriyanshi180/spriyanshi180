@@ -49,10 +49,9 @@
 ## 🚀 Projects:
 - 🔭 *Driver Drowsiness Detection System* – Raspberry Pi + OpenCV + Buzzer
 - 💡 *IoT-based Water Level Indicator* – Arduino + Ultrasonic Sensor + LED + Buzzer
-- 📊 *Data Analysis Projects* – Python + Pandas + SQL + Matplotlib
+- 📊 *Data Analysis Projects* – Python + Tableau + Data Cleaning + Data Visualization
 
 ---
 
 ## 🏆 Achievements:
-- 🥇 Finalist in IoT-based Smart Solutions Hackathon
 - 🧠 Built multiple automation and analytics projects using Python
