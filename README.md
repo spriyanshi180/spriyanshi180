@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshi Singh</h1>
-<h3 align="center">Embedded Systems | IoT | Data Analytics | Python Developer</h3>
+<h3 align="center">Aspiring Embedded Systems | IoT Engineer | Data Analytics Enthusiast | Python Developer</h3>
 
 ---
 
